@@ -32,3 +32,6 @@ regions[footer] = Footer
 
 settings[shortcut_module_link] = 0
 
+settings[toggle_name] = 0
+settings[toggle_slogan] = 0
+
